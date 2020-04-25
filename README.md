@@ -10,6 +10,6 @@ It's archived as a convenience for anyone who wants (or needs) to keep using `v0
 maizzle new https://github.com/maizzle/starter-nunjucks.git
 ```
 
-Alternatively, you can just `maizzle new` and specify you want to use a custom starter:
+Alternatively, with the latest version of the [CLI](https://github.com/maizzle/cli), you can just `maizzle new` and specify you want to use a custom starter:
 
 <img src="https://user-images.githubusercontent.com/1656595/80282449-42553000-871a-11ea-9ca4-9f4aa4fb09b4.png" alt="Using the interactive prompt to scaffold starter-nunjucks" width="700">
